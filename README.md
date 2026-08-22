@@ -1,2 +1,2 @@
 # qr
-QR for RPG Cameleón 792
+QR para el RPG "Cameleón 792"
