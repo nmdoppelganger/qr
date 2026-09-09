@@ -1,2 +1,2 @@
 # qr
-QR para el SF-TTRPG "Cameleón 792"
+QR para elementos audiovisuales del UFC792
